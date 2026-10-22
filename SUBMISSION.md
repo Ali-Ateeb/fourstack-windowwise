@@ -8,8 +8,8 @@ Working prototype created October 22, 2026; submitted October 22, 2026 with two 
 - Deadline: October 27, 2026, 08:00 Pakistan time.
 - Official rules permit teams up to four and disclosed AI assistance; the overview accepts university students aged 13+ and worldwide participants except listed territories, which do not include Pakistan.
 - Ali Ateeb and Ali Zulfikar already have confirmed event registrations. Anas and Obaidullah still require their own registrations.
-- Devpost draft created after the user completed the CAPTCHA: project 1254015-windowwise, software 1499596. Draft is not final submission.
-- Required video: https://youtu.be/jfM0npO_QQA — published Unlisted, 1:46, and saved in the existing draft. At least one real screenshot, repository, description and credits are required.
+- Devpost draft created after the user completed the CAPTCHA: project 1254015-windowwise, software 1499596. Final project submission was subsequently confirmed October 22.
+- Required video: https://youtu.be/jfM0npO_QQA — published Unlisted, 1:46, and saved in the submitted entry. At least one real screenshot, repository, description and credits are required.
 - Ten core tests pass. Browser verified seven shared one-hour starts for the synthetic global example, real ICS/JSON downloads, stale-result invalidation, no-overlap handling and an invalid-zone error.
 - Exports under examples/ use invented people and schedules only. No private team contacts or invite links belong in this repository.
 - AI assistance, limitations and actual implemented behavior are disclosed in README and DEVPOST-STORY.md. Personal member contributions must be reviewed and described honestly.
