@@ -1,0 +1,12 @@
+WindowWise — FourStack | NextSpark Hacks demo
+
+Working app: https://ali-ateeb.github.io/fourstack-windowwise/
+Source and run instructions: https://github.com/Ali-Ateeb/fourstack-windowwise
+
+Find shared work sessions for four teammates across time zones without uploading their schedules. The demo shows local weekly hours, seven possible session starts, the London daylight-saving change, and calendar/JSON export controls. Both downloads were separately verified in the browser.
+
+This is an edited walkthrough made from actual browser captures, with synthetic Windows text-to-speech narration. Names and availability are invented. Codex assisted with planning, implementation, testing, documentation and video preparation. No integrated AI model or calendar connection is used.
+
+Limits: four people, weekly recurring availability, 15-minute boundaries, up to seven UTC days; no holidays, date-specific exceptions, fairness ranking or automatic invitations. Confirm actual availability with teammates. Ten narrow core tests pass; this is not a general correctness guarantee.
+
+Created October 22, 2026 during the NextSpark build window.

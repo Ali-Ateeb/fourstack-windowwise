@@ -7,16 +7,25 @@
   "public_project_url": "https://devpost.com/software/windowwise",
   "project_submitted": false,
   "final_submission_receipt": null,
-  "project_members_joined": 1,
+  "project_members_joined": 2,
   "team_membership_complete": false,
   "video": {
-    "required_youtube_or_vimeo_url": null,
+    "required_youtube_or_vimeo_url": "https://youtu.be/jfM0npO_QQA",
     "maximum_seconds": 180,
-    "status": "not_prepared"
+    "status": "published_unlisted_link_saved_in_devpost",
+    "local_file": "media/demo.mp4",
+    "duration_seconds": 105.661,
+    "captions": "media/captions.vtt",
+    "captions_status": "Studio confirmed English subtitles published; public player initially showed captions unavailable"
   },
   "screenshots": [
     "screenshots/01-shared-windows.png",
     "screenshots/02-synthetic-schedules.png"
   ],
-  "verification": "Ten core tests passed, including DST gaps/repeats and UTC calendar output. Actual browser verified seven synthetic shared windows, real ICS/JSON downloads, invalid-zone errors, no-overlap and stale-export handling. Public Pages build verified and matches committed source. User completed the CAPTCHA. Project name, pitch, story, JavaScript tag, repository/demo URLs and two real screenshots were saved and read back after reload; draft shows 2/4 steps."
+  "verification": "Ten core tests passed, including DST gaps/repeats and UTC calendar output. Actual browser verified seven synthetic shared windows, real ICS/JSON downloads, invalid-zone errors, no-overlap and stale-export handling. Public Pages build verified and matches committed source. User completed the CAPTCHA. Project name, pitch, story, JavaScript tag, repository/demo URLs and two real screenshots were saved and read back after reload; draft shows 2/4 steps. October 22: Chrome aalizulfiqar46 accepted the existing project invite and Devpost confirmed contributor addition. YouTube confirmed Video published, 1:46, after explicit agreement approval; public watch playback reached 6.68 seconds, readyState 4, no error. The saved Devpost preview embeds WindowWise and final review shows Draft, 3/4 steps done, both Ali accounts and unchecked final agreement.",
+  "remaining": [
+    "Final NextSpark agreement and submission are not performed.",
+    "Anas and Obaidullah need their own registrations and project joins before the deadline.",
+    "All members should review implementation and describe only their actual contributions."
+  ]
 }

@@ -2,3 +2,8 @@ node_modules/
 *.log
 .env*
 devpost/learner-profile.md
+
+media/*.wav
+media/segments/
+media/frames/
+media/concat.tmp

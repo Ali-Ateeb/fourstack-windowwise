@@ -1,0 +1,9 @@
+WindowWise helps four teammates find a shared work session across time zones. This edited walkthrough uses actual browser captures and synthetic narration. All names and schedules in this example are invented. Nothing is uploaded to a scheduling server.
+
+Each person enters a time zone and local weekly hours. This example searches seven UTC days from October twenty second, for a sixty minute session. The engine checks real instants on a fifteen minute grid, using each person's local day and time.
+
+The example produces seven possible starts. The first is thirteen hundred UTC: eighteen hundred in Karachi, fourteen hundred in London, nine in New York and twenty one hundred in Singapore. Overlapping suggestions are alternatives, not seven separate meetings.
+
+Look at Monday, October twenty sixth, after London's clock change. The shared hour now starts at fourteen hundred UTC. London still shows fourteen hundred locally, while Karachi shows nineteen hundred. These are date aware time zone calculations, not fixed offsets.
+
+Download a UTC calendar file for a chosen option, or a JSON plan containing the entered schedules. Both downloads were checked in the browser. No invitations are sent automatically. Ten core tests cover the prototype. Codex assisted with code and this demo. Weekly availability is a starting point: confirm actual attendance and holiday exceptions with your team.

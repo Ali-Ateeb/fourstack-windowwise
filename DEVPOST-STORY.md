@@ -29,3 +29,8 @@ The prototype supports four people, weekly recurring hours, 15-minute boundaries
 ## What's next
 
 Future work could add date-specific exceptions, optional fairness scoring and consent-based calendar integrations. Those features are not implemented.
+
+
+## Demo production
+
+The 1:46 demonstration is an edited walkthrough of actual browser captures using invented people and schedules, with synthetic Windows text-to-speech narration. Codex assisted with demo preparation. It is not a continuous recording. Timed English captions accompany the video.

@@ -33,6 +33,10 @@ Inputs are not uploaded or persisted by the app. Exported JSON contains your inp
 
 Codex assisted with planning, implementation, tests, styling and documentation. There is no integrated AI model; schedule matching is deterministic. Personal team authorship and learning claims are not invented. Members must review and understand the code and describe their own actual contributions. Timezone formatting uses standard JavaScript `Intl.DateTimeFormat`; calendar output follows the basic RFC 5545 UTC event format. Original application code; MIT licensed.
 
-## Submission status
+## Demo and submission status
 
-Not submitted. Public source, working deployment, two screenshots and description/credits are prepared and saved in the Devpost draft. The required 1–3 minute accessible demo video remains pending. The Devpost draft is separate from the working prototype. Deadline: October 27, 2026 at 08:00 Pakistan time. Every intended member must register and join with their own account.
+Unlisted 1:46 demo: https://youtu.be/jfM0npO_QQA
+
+The video uses actual browser captures, invented schedules and synthetic Windows narration. Codex assisted with demo preparation. Local MP4, transcript and timed captions are in `media/`. The entire MP4 decodes without error; public YouTube playback was verified. Studio confirmed English captions published, though the public player initially reported them unavailable.
+
+Not submitted. The existing Devpost draft now shows 3/4 steps complete with description, credits, source/app links, two screenshots and the published video saved. Ali Ateeb and Ali Zulfikar are joined. Anas and Obaidullah still need their own registrations and joins. Final agreement remains unchecked. Deadline: October 27, 2026 at 08:00 Pakistan time. Every intended member should review the implementation and describe only their actual contributions.

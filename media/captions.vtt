@@ -1,0 +1,49 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.809
+WindowWise helps four teammates find a shared work session across time zones. This edited
+
+00:00:05.809 --> 00:00:11.618
+walkthrough uses actual browser captures and synthetic narration. All names and schedules in
+
+00:00:11.618 --> 00:00:17.427
+this example are invented. Nothing is uploaded to a scheduling server.
+
+00:00:18.427 --> 00:00:24.186
+Each person enters a time zone and local weekly hours. This example searches seven UTC days
+
+00:00:24.186 --> 00:00:29.944
+from October twenty second, for a sixty minute session. The engine checks real instants on a
+
+00:00:29.944 --> 00:00:35.703
+fifteen minute grid, using each person's local day and time.
+
+00:00:36.703 --> 00:00:43.019
+The example produces seven possible starts. The first is thirteen hundred UTC: eighteen hundred
+
+00:00:43.019 --> 00:00:49.334
+in Karachi, fourteen hundred in London, nine in New York and twenty one hundred in Singapore.
+
+00:00:49.334 --> 00:00:55.650
+Overlapping suggestions are alternatives, not seven separate meetings.
+
+00:00:56.650 --> 00:01:03.490
+Look at Monday, October twenty sixth, after London's clock change. The shared hour now starts
+
+00:01:03.490 --> 00:01:10.331
+at fourteen hundred UTC. London still shows fourteen hundred locally, while Karachi shows
+
+00:01:10.331 --> 00:01:17.171
+nineteen hundred. These are date aware time zone calculations, not fixed offsets.
+
+00:01:18.171 --> 00:01:24.763
+Download a UTC calendar file for a chosen option, or a JSON plan containing the entered
+
+00:01:24.763 --> 00:01:31.356
+schedules. Both downloads were checked in the browser. No invitations are sent automatically.
+
+00:01:31.356 --> 00:01:37.948
+Ten core tests cover the prototype. Codex assisted with code and this demo. Weekly availability
+
+00:01:37.948 --> 00:01:44.541
+is a starting point: confirm actual attendance and holiday exceptions with your team.
