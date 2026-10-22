@@ -5,8 +5,24 @@
   "source_url": "https://github.com/Ali-Ateeb/fourstack-windowwise",
   "platform_draft_url": "https://devpost.com/submit-to/31805-nextspark-hacks/manage/submissions/1254015-windowwise/finalization",
   "public_project_url": "https://devpost.com/software/windowwise",
-  "project_submitted": false,
-  "final_submission_receipt": null,
+  "project_submitted": true,
+  "final_submission_receipt": {
+    "checked_at": "2026-10-22T15:44:10.181Z",
+    "project": "WindowWise",
+    "event": "NextSpark Hacks",
+    "account": "ali-ateeb322",
+    "project_submitted": true,
+    "confirmation": "Project submitted! Continue to edit your project until the hackathon deadline: October 26, 2026 at 11:00pm EDT.",
+    "confirmation_url": "https://devpost.com/software/windowwise",
+    "submission_id": "1254015-windowwise",
+    "software_id": "1499596",
+    "members": [
+      "member-4",
+      "member-3"
+    ],
+    "agreement_approval": "User confirmed Accept agreements and submit WindowWise at action time.",
+    "deadline_pakistan": "2026-10-27T08:00:00+05:00"
+  },
   "project_members_joined": 2,
   "team_membership_complete": false,
   "video": {
@@ -22,10 +38,8 @@
     "screenshots/01-shared-windows.png",
     "screenshots/02-synthetic-schedules.png"
   ],
-  "verification": "Ten core tests passed, including DST gaps/repeats and UTC calendar output. Actual browser verified seven synthetic shared windows, real ICS/JSON downloads, invalid-zone errors, no-overlap and stale-export handling. Public Pages build verified and matches committed source. User completed the CAPTCHA. Project name, pitch, story, JavaScript tag, repository/demo URLs and two real screenshots were saved and read back after reload; draft shows 2/4 steps. October 22: Chrome aalizulfiqar46 accepted the existing project invite and Devpost confirmed contributor addition. YouTube confirmed Video published, 1:46, after explicit agreement approval; public watch playback reached 6.68 seconds, readyState 4, no error. The saved Devpost preview embeds WindowWise and final review shows Draft, 3/4 steps done, both Ali accounts and unchecked final agreement.",
+  "verification": "Ten core tests passed, including DST gaps/repeats and UTC calendar output. Actual browser verified seven synthetic shared windows, real ICS/JSON downloads, invalid-zone errors, no-overlap and stale-export handling. Public Pages build verified and matches committed source. User completed the CAPTCHA. Project name, pitch, story, JavaScript tag, repository/demo URLs and two real screenshots were saved and read back after reload; draft shows 2/4 steps. October 22: Chrome aalizulfiqar46 accepted the existing project invite and Devpost confirmed contributor addition. YouTube confirmed Video published, 1:46, after explicit agreement approval; public watch playback reached 6.68 seconds, readyState 4, no error. The saved Devpost preview embeds WindowWise and final review shows Draft, 3/4 steps done, both Ali accounts and unchecked final agreement. Final submission confirmed October 22, 2026 after explicit action-time approval; current two-member team.",
   "remaining": [
-    "Final NextSpark agreement and submission are not performed.",
-    "Anas and Obaidullah need their own registrations and project joins before the deadline.",
-    "All members should review implementation and describe only their actual contributions."
+    "Anas and Obaidullah still require their own registration and joining before the deadline."
   ]
 }

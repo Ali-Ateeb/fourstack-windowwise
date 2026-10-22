@@ -39,4 +39,9 @@ Unlisted 1:46 demo: https://youtu.be/jfM0npO_QQA
 
 The video uses actual browser captures, invented schedules and synthetic Windows narration. Codex assisted with demo preparation. Local MP4, transcript and timed captions are in `media/`. The entire MP4 decodes without error; public YouTube playback was verified. Studio confirmed English captions published, though the public player initially reported them unavailable.
 
-Not submitted. The existing Devpost draft now shows 3/4 steps complete with description, credits, source/app links, two screenshots and the published video saved. Ali Ateeb and Ali Zulfikar are joined. Anas and Obaidullah still need their own registrations and joins. Final agreement remains unchecked. Deadline: October 27, 2026 at 08:00 Pakistan time. Every intended member should review the implementation and describe only their actual contributions.
+Submitted October 22, 2026. The existing Devpost entry contains with description, credits, source/app links, two screenshots and the published video saved. Ali Ateeb and Ali Zulfikar are joined. Anas and Obaidullah still need their own registrations and joins. Final agreement was accepted after explicit action-time confirmation. Deadline: October 27, 2026 at 08:00 Pakistan time. Every intended member should review the implementation and describe only their actual contributions.
+
+
+Confirmed submitted entry: https://devpost.com/software/windowwise
+
+Devpost confirmation: Project submitted! Edit deadline October 27, 2026 at 08:00 Pakistan time. Current joined team: Ali Ateeb and Ali Zulfikar. Anas and Obaidullah remain pending.

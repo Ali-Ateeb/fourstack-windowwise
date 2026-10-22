@@ -1,6 +1,6 @@
 # WindowWise / NextSpark Hacks
 
-Working prototype created October 22, 2026; draft ready at 3/4 steps, not a submitted entry.
+Working prototype created October 22, 2026; submitted October 22, 2026 with two joined members.
 
 - Rules: https://nextspark-hacks.devpost.com/rules
 - Schedule: https://nextspark-hacks.devpost.com/details/dates
@@ -14,4 +14,9 @@ Working prototype created October 22, 2026; draft ready at 3/4 steps, not a subm
 - Exports under examples/ use invented people and schedules only. No private team contacts or invite links belong in this repository.
 - AI assistance, limitations and actual implemented behavior are disclosed in README and DEVPOST-STORY.md. Personal member contributions must be reviewed and described honestly.
 
-Ali Ateeb and Ali Zulfikar are joined, confirmed on final review. Anas and Obaidullah remain pending. Final agreement is unchecked; no final submission receipt exists. Demo production uses real browser captures, invented schedules and synthetic Windows narration, with Codex assistance disclosed.
+Ali Ateeb and Ali Zulfikar are joined, confirmed on final review. Anas and Obaidullah remain pending. Devpost confirmed Project submitted!; a real receipt is recorded. Demo production uses real browser captures, invented schedules and synthetic Windows narration, with Codex assistance disclosed.
+
+
+Confirmed submitted entry: https://devpost.com/software/windowwise
+
+Devpost confirmation: Project submitted! Edit deadline October 27, 2026 at 08:00 Pakistan time. Current joined team: Ali Ateeb and Ali Zulfikar. Anas and Obaidullah remain pending.
