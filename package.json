@@ -1,0 +1,1 @@
+{"name":"fourstack-windowwise","private":true,"type":"module","scripts":{"test":"node --test core.test.mjs"}}
