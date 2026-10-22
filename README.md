@@ -4,6 +4,9 @@ Find shared meeting windows for four teammates without uploading their schedules
 
 Created October 22, 2026 for NextSpark Hacks, during the October 21–27 build window. This is a separate new product, not a reuse of TraceTutor, LabLedger or a previous winning project.
 
+Live app: https://ali-ateeb.github.io/fourstack-windowwise/
+Source: https://github.com/Ali-Ateeb/fourstack-windowwise
+
 ## Run and verify
 
 Serve this directory with `python -m http.server 8773 --bind 127.0.0.1` and open http://127.0.0.1:8773/ . No packages, accounts or API keys are required. With Node 18+: `node --test core.test.mjs`.
@@ -32,4 +35,4 @@ Codex assisted with planning, implementation, tests, styling and documentation. 
 
 ## Submission status
 
-Not submitted. Required NextSpark materials still include a public repository, 1–3 minute accessible demo video, at least one screenshot and project description/credits. The Devpost draft is separate from the working prototype. Deadline: October 27, 2026 at 08:00 Pakistan time. Every intended member must register and join with their own account.
+Not submitted. Public source, working deployment, two screenshots and description/credits are prepared and saved in the Devpost draft. The required 1–3 minute accessible demo video remains pending. The Devpost draft is separate from the working prototype. Deadline: October 27, 2026 at 08:00 Pakistan time. Every intended member must register and join with their own account.

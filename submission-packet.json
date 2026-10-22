@@ -1,0 +1,22 @@
+{
+  "title": "WindowWise",
+  "event_url": "https://nextspark-hacks.devpost.com/",
+  "working_demo_url": "https://ali-ateeb.github.io/fourstack-windowwise/",
+  "source_url": "https://github.com/Ali-Ateeb/fourstack-windowwise",
+  "platform_draft_url": "https://devpost.com/submit-to/31805-nextspark-hacks/manage/submissions/1254015-windowwise/finalization",
+  "public_project_url": "https://devpost.com/software/windowwise",
+  "project_submitted": false,
+  "final_submission_receipt": null,
+  "project_members_joined": 1,
+  "team_membership_complete": false,
+  "video": {
+    "required_youtube_or_vimeo_url": null,
+    "maximum_seconds": 180,
+    "status": "not_prepared"
+  },
+  "screenshots": [
+    "screenshots/01-shared-windows.png",
+    "screenshots/02-synthetic-schedules.png"
+  ],
+  "verification": "Ten core tests passed, including DST gaps/repeats and UTC calendar output. Actual browser verified seven synthetic shared windows, real ICS/JSON downloads, invalid-zone errors, no-overlap and stale-export handling. Public Pages build verified and matches committed source. User completed the CAPTCHA. Project name, pitch, story, JavaScript tag, repository/demo URLs and two real screenshots were saved and read back after reload; draft shows 2/4 steps."
+}
